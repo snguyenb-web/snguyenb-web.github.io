@@ -5,3 +5,5 @@ author: Simon Nguyen
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+webmaster_verifications:
+  google: fvxRO_jE6P8vtDk7MwLDdaKHWbWetgUoB3UmSMO87mQ
