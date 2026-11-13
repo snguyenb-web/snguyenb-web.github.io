@@ -1,3 +1,10 @@
+---
+title: "The Trusted Digital Civilization, Chapter 3: A Day You Didn't Notice"
+description: "Why identity verification breaks once vehicles can fly, and how a worn, hardware-anchored trust layer could answer the one question a traffic stop always could."
+date: 2026-11-11
+image: /articles/trusted-digital-civilization-ch3-cover.png
+---
+
 # The Trusted Digital Civilization Chapter 3: A Day You Didn't Notice
 
 ![Cover](trusted-digital-civilization-ch3-cover.png)

@@ -1,3 +1,10 @@
+---
+title: "A Flat Optical Data Server Where the CPU Runs the Fabric"
+description: "A high-level look at a flat, optical-first AI data server architecture in which the CPU runs the fabric. Patent pending."
+date: 2026-11-09
+image: /articles/flat-optical-data-server-cover.png
+---
+
 # A Flat Optical Data Server Where the CPU Runs the Fabric
 
 ![Cover](flat-optical-data-server-cover.png)

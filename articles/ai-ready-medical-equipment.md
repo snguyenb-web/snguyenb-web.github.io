@@ -1,3 +1,10 @@
+---
+title: "Design Thesis: AI-Ready Medical Equipment"
+description: "An engineer's conceptual architecture for AI-ready medical equipment for surgery and tumor detection, offered for discussion. Not a cleared medical device."
+date: 2026-11-07
+image: /articles/ai-ready-medical-equipment-cover.png
+---
+
 # Design Thesis: AI-Ready Medical Equipment
 
 ![Cover](ai-ready-medical-equipment-cover.png)
