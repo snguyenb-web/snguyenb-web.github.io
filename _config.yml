@@ -1,0 +1,7 @@
+title: Simon Nguyen
+description: Systems architecture, AI infrastructure, medical AI, and trusted edge computing, by Simon Nguyen
+url: https://snguyenb-web.github.io
+author: Simon Nguyen
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
