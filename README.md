@@ -23,6 +23,7 @@ Welcome to my technical library, where I share ideas and articles by topic.
 
 ## Medical AI Applications
 
+- [Nervous System Computing](articles/nervous-system-computing.html) (Oct 19, 2026)
 - [Design Thesis: AI-Ready Medical Equipment](articles/ai-ready-medical-equipment.html) (Nov 7, 2026)
 
 ## Future Transportation Systems
