@@ -21,12 +21,14 @@ Welcome to my technical library, where I share ideas and articles by topic. Arti
 *The data server series, designed for both Earth and space. Includes TPU/NPU and accelerator architectures.*
 
 1. [Breaking the Infrastructure Wall: From the PC to an Open, Optical AI Server](articles/breaking-the-infrastructure-wall.html) (Oct 5, 2026)
-2. [Nervous System Computing](articles/nervous-system-computing.html) (Oct 19, 2026)
-3. [A Flat Optical Data Server Where the CPU Runs the Fabric](articles/flat-optical-data-server.html) (Nov 9, 2026)
+2. [Programmable Photonic QPU on a Flat Data Server](articles/programmable-photonic-qpu.html) (Oct 7, 2026)
+3. [Nervous System Computing](articles/nervous-system-computing.html) (Oct 19, 2026)
+4. [A Flat Optical Data Server Where the CPU Runs the Fabric](articles/flat-optical-data-server.html) (Nov 9, 2026)
 
-## Photonic Computing
+## Photonic & Quantum Computing
 
 - [Breaking the Infrastructure Wall: From the PC to an Open, Optical AI Server](articles/breaking-the-infrastructure-wall.html) (Oct 5, 2026)
+- [Programmable Photonic QPU on a Flat Data Server](articles/programmable-photonic-qpu.html) (Oct 7, 2026)
 - [A Flat Optical Data Server Where the CPU Runs the Fabric](articles/flat-optical-data-server.html) (Nov 9, 2026)
 
 ## Medical AI Applications
