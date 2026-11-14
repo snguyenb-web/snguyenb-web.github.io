@@ -14,7 +14,8 @@ Welcome to my technical library, where I share ideas and articles by topic. Arti
 2. [Chapter 1: The Trusted Digital Civilization](articles/trusted-digital-civilization-ch1.html) (Jun 20, 2026)
 3. [Chapter 2: Living with a Trusted Assistant](articles/trusted-digital-civilization-ch2.html) (Oct 28, 2026)
 4. [Chapter 3: A Day You Didn't Notice](articles/trusted-digital-civilization-ch3.html) (Nov 11, 2026)
-5. Chapters 4 and 5: coming soon
+5. [Chapter 4: The Hybrid Intelligence Continuum](articles/trusted-digital-civilization-ch4.html) (Nov 14, 2026)
+6. [Chapter 5: Trusted Ratings](articles/trusted-digital-civilization-ch5.html) (Nov 14, 2026)
 
 ## AI Infrastructure
 
