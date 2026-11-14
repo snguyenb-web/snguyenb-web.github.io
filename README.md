@@ -39,7 +39,9 @@ Welcome to my technical library, where I share ideas and articles by topic. Arti
 
 ## Future Transportation Systems
 
-- [The Trusted Digital Civilization, Chapter 3: A Day You Didn't Notice](articles/trusted-digital-civilization-ch3.html) (Nov 11, 2026)
+1. [AI Supervised Drone Architecture: Building Autonomous Systems That Protect People](articles/ai-supervised-drone-architecture.html) (Jul 1, 2026)
+2. [AI and EVs: Engineering the Future Through Collaboration, Not Competition](articles/ai-and-evs.html) (Jul 2, 2026)
+3. [The Trusted Digital Civilization, Chapter 3: A Day You Didn't Notice](articles/trusted-digital-civilization-ch3.html) (Nov 11, 2026)
 
 ## About
 
