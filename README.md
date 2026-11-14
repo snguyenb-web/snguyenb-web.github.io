@@ -11,11 +11,12 @@ Welcome to my technical library, where I share ideas and articles by topic. Arti
 *How human-aligned AI leads to User Trust Data (UTD), a hardware-rooted identity layer.*
 
 1. [Human-Aligned AI: Technology That Protects Privacy and Supports Real Families](articles/human-aligned-ai.html) (Jun 15, 2026)
-2. [Chapter 1: The Trusted Digital Civilization](articles/trusted-digital-civilization-ch1.html) (Jun 20, 2026)
-3. [Chapter 2: Living with a Trusted Assistant](articles/trusted-digital-civilization-ch2.html) (Oct 28, 2026)
-4. [Chapter 3: A Day You Didn't Notice](articles/trusted-digital-civilization-ch3.html) (Nov 11, 2026)
-5. [Chapter 4: The Hybrid Intelligence Continuum](articles/trusted-digital-civilization-ch4.html) (Nov 14, 2026)
-6. [Chapter 5: Trusted Ratings](articles/trusted-digital-civilization-ch5.html) (Nov 14, 2026)
+2. [When Technology Stops Feeling Human: Especially with Passwords](articles/when-technology-stops-feeling-human.html) (Jun 17, 2026)
+3. [Chapter 1: The Trusted Digital Civilization](articles/trusted-digital-civilization-ch1.html) (Jun 20, 2026)
+4. [Chapter 2: Living with a Trusted Assistant](articles/trusted-digital-civilization-ch2.html) (Oct 28, 2026)
+5. [Chapter 3: A Day You Didn't Notice](articles/trusted-digital-civilization-ch3.html) (Nov 11, 2026)
+6. [Chapter 4: The Hybrid Intelligence Continuum](articles/trusted-digital-civilization-ch4.html) (Nov 14, 2026)
+7. [Chapter 5: Trusted Ratings](articles/trusted-digital-civilization-ch5.html) (Nov 14, 2026)
 
 ## AI Infrastructure
 
