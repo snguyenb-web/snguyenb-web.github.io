@@ -20,12 +20,15 @@ Welcome to my technical library, where I share ideas and articles by topic. Arti
 
 ## AI Infrastructure
 
-*The data server series, designed for both Earth and space. Includes TPU/NPU and accelerator architectures.*
+*The data server series, designed for both Earth and space, covering hardware (servers, optics, TPU/NPU and accelerators) and the software that runs on it (LLM inference).*
 
-1. [Breaking the Infrastructure Wall: From the PC to an Open, Optical AI Server](articles/breaking-the-infrastructure-wall.html) (Oct 5, 2026)
-2. [Programmable Photonic QPU on a Flat Data Server](articles/programmable-photonic-qpu.html) (Oct 7, 2026)
-3. [Nervous System Computing](articles/nervous-system-computing.html) (Oct 19, 2026)
-4. [A Flat Optical Data Server Where the CPU Runs the Fabric](articles/flat-optical-data-server.html) (Nov 9, 2026)
+1. [The Hidden Engineering Challenges of Running Computers in Space](articles/computers-in-space.html) (Jun 13, 2026)
+2. [Breaking the Infrastructure Wall: From the PC to an Open, Optical AI Server](articles/breaking-the-infrastructure-wall.html) (Oct 5, 2026)
+3. [Programmable Photonic QPU on a Flat Data Server](articles/programmable-photonic-qpu.html) (Oct 7, 2026)
+4. [Cars Evolved. AI Must Too.](articles/cars-evolved-ai-must-too.html) (Oct 14, 2026)
+5. [Nervous System Computing](articles/nervous-system-computing.html) (Oct 19, 2026)
+6. [Beyond Brute Force: Treating LLM Inference Like an Operating System](articles/beyond-brute-force.html) (Oct 26, 2026)
+7. [A Flat Optical Data Server Where the CPU Runs the Fabric](articles/flat-optical-data-server.html) (Nov 9, 2026)
 
 ## Photonic & Quantum Computing
 
@@ -39,9 +42,7 @@ Welcome to my technical library, where I share ideas and articles by topic. Arti
 
 ## Future Transportation Systems
 
-1. [AI Supervised Drone Architecture: Building Autonomous Systems That Protect People](articles/ai-supervised-drone-architecture.html) (Jul 1, 2026)
-2. [AI and EVs: Engineering the Future Through Collaboration, Not Competition](articles/ai-and-evs.html) (Jul 2, 2026)
-3. [The Trusted Digital Civilization, Chapter 3: A Day You Didn't Notice](articles/trusted-digital-civilization-ch3.html) (Nov 11, 2026)
+- [The Trusted Digital Civilization, Chapter 3: A Day You Didn't Notice](articles/trusted-digital-civilization-ch3.html) (Nov 11, 2026)
 
 ## About
 
