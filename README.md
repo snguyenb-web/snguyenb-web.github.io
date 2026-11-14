@@ -4,7 +4,7 @@
 
 *Solving the AI Infrastructure "Latency Wall" | Optical-Bridge Storage & Sovereign Edge Compute*
 
-Welcome to my technical library, where I share ideas and articles by topic.
+Welcome to my technical library, where I share ideas and articles by topic. Articles are listed oldest first, so each series can be read in order.
 
 ## The Trusted Digital Civilization (series)
 
@@ -13,17 +13,19 @@ Welcome to my technical library, where I share ideas and articles by topic.
 
 ## AI Infrastructure
 
-*Including TPU/NPU and accelerator architectures*
+*The data server series, designed for both Earth and space. Includes TPU/NPU and accelerator architectures.*
 
-- [A Flat Optical Data Server Where the CPU Runs the Fabric](articles/flat-optical-data-server.html) (Nov 9, 2026)
+1. [Breaking the Infrastructure Wall: From the PC to an Open, Optical AI Server](articles/breaking-the-infrastructure-wall.html) (Oct 5, 2026)
+2. [Nervous System Computing](articles/nervous-system-computing.html) (Oct 19, 2026)
+3. [A Flat Optical Data Server Where the CPU Runs the Fabric](articles/flat-optical-data-server.html) (Nov 9, 2026)
 
 ## Photonic Computing
 
+- [Breaking the Infrastructure Wall: From the PC to an Open, Optical AI Server](articles/breaking-the-infrastructure-wall.html) (Oct 5, 2026)
 - [A Flat Optical Data Server Where the CPU Runs the Fabric](articles/flat-optical-data-server.html) (Nov 9, 2026)
 
 ## Medical AI Applications
 
-- [Nervous System Computing](articles/nervous-system-computing.html) (Oct 19, 2026)
 - [Design Thesis: AI-Ready Medical Equipment](articles/ai-ready-medical-equipment.html) (Nov 7, 2026)
 
 ## Future Transportation Systems
